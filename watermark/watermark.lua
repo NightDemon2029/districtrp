@@ -1,7 +1,7 @@
 -- CONFIG --
 
 -- The watermark text --
-servername = "discord.gg/Ny66yfr"
+servername = "https://discord.gg/dPwKxN3K"
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001
