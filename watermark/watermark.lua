@@ -1,7 +1,7 @@
 -- CONFIG --
 
 -- The watermark text --
-servername = "discord.gg/Ny66yfr"
+servername = "https://discord.gg/dPwKxN3K"
 
 -- The x and y offset (starting at the top left corner) --
 -- Default: 0.005, 0.001
@@ -47,7 +47,7 @@ Citizen.CreateThread(function()
 		SetTextDropshadow(2, 2, 0, 0, 0)
 		SetTextEdge(1, 0, 0, 0, 205)
 		SetTextEntry("STRING")
-		AddTextComponentString(servername)
+		AddTextComponentString(Lost Wolf Rp)
 		DrawText(offset.x, offset.y)
 	end
 end)
